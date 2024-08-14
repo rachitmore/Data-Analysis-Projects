@@ -56,8 +56,8 @@ The final output of this project includes:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to [Your Name] at [Your Email Address].
+For any questions or suggestions, feel free to reach out to Rachit More at rachitmore3@gmail.com.
